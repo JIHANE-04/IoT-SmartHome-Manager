@@ -1,0 +1,70 @@
+[
+  {
+    "connecte": true,
+    "valeur": "23 °C",
+    "manuel": false,
+    "id": 1,
+    "type": "CapteurTemperature",
+    "nom": "TempSalon"
+  },
+  {
+    "connecte": true,
+    "valeur": "73 %",
+    "manuel": false,
+    "id": 2,
+    "type": "CapteurHumidite",
+    "nom": "HumiditeCuisine"
+  },
+  {
+    "connecte": true,
+    "valeur": "72 AQI",
+    "manuel": false,
+    "id": 3,
+    "type": "CapteurQualiteAir",
+    "nom": "AirGarage"
+  },
+  {
+    "connecte": true,
+    "valeur": "12 L/min",
+    "manuel": false,
+    "id": 4,
+    "type": "CapteurDebitEau",
+    "nom": "DebitSalleEau"
+  },
+  {
+    "connecte": true,
+    "valeur": "ALLUMÉE",
+    "allume": true,
+    "manuel": false,
+    "id": 5,
+    "type": "ActionneurLumiere",
+    "nom": "LumiereSalon"
+  },
+  {
+    "connecte": true,
+    "valeur": "↑",
+    "ouvert": true,
+    "manuel": false,
+    "id": 6,
+    "type": "ActionneurVolet",
+    "nom": "VoletCuisine"
+  },
+  {
+    "connecte": true,
+    "valeur": "Niveau 3",
+    "manuel": false,
+    "id": 7,
+    "type": "ActionneurVentilation",
+    "nom": "VentilationGarage",
+    "niveau": 3
+  },
+  {
+    "connecte": true,
+    "valeur": "ACTIVÉE",
+    "manuel": false,
+    "active": true,
+    "id": 9,
+    "type": "CameraIP",
+    "nom": "CAM"
+  }
+]

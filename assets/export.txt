@@ -1,0 +1,8 @@
+1 | CapteurTemperature | TempSalon | ON | 21 °C | JSON
+2 | CapteurHumidite | HumiditeCuisine | ON | 73 % | JSON
+3 | CapteurQualiteAir | AirGarage | ON | 72 AQI | JSON
+4 | CapteurDebitEau | DebitSalleEau | ON | 12 L/min | JSON
+5 | ActionneurLumiere | LumiereSalon | ON | ON | JSON
+6 | ActionneurVolet | VoletCuisine | ON | ↑ | JSON
+7 | ActionneurVentilation | VentilationGarage | ON | Niveau 2 | JSON
+9 | CameraIP | CAM | ON | ACTIVÉE | JSON
